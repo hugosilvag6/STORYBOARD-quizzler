@@ -1,6 +1,6 @@
 # Quizzler App
 
-- This is a quiz app. If you have a field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store!;
+- This is a quiz app. If you have a field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store;
 - Created using Swift Storyboard;
 - Optimized for all screens, both portrait and landscape;
 - You can track your progress with the help of a progress bar;
